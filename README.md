@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rohil-Ali
+- 👋 Hi, I’m Rohil Ali
 - 👀 I’m interested in programming more specifically game development. I spend most of my time working with Unreal engine and programming in C++.
-- 🌱 I’m currently learning more about game development and started to dabble in web development with frameworks like Laravel and React.
+- 🌱 I’m currently learning more about game development and started to dabble in web development and embedded systems.
 - 📫 How to reach me [https://www.linkedin.com/in/rohilali/](https://www.linkedin.com/in/rohilali/).
 - ⚡ Fun fact: Ive climbed Ben Nevis 3 times which is interesting i guess.
 
